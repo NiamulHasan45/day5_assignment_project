@@ -86,10 +86,18 @@ p{
     width: 60%;
     padding:0% 10%;
 }
-.planning-image{
+.planning-image1{
     width: 40%;
+    margin-left: 6%;
 }
-.planning-image img{
+.planning-image2{
+    width: 40%;
+    margin-right: 5%;
+}
+.planning-image1 img{
+    width: 100%;
+}
+.planning-image2 img{
     width: 100%;
 }
 .app-image{
@@ -106,6 +114,28 @@ p{
     margin-right: 5%;
     padding-left: 30px;
     width:60%;
+}
+.background-image1{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position: left;
+    margin-bottom: 200px;
+}
+.background-image2{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: center;
+    margin-bottom: 200px;
+}
+.background-image3{
+    background-image: url(images/shape-2.png);
+    background-image: url(images/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: left;
+    margin-bottom: 200px;
 }
 .footer-design{
 font-family: 'Source Sans Pro', sans-serif;
