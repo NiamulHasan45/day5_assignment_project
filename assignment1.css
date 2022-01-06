@@ -1,0 +1,123 @@
+body{
+    font-family: 'Hind', sans-serif;
+    margin: 0px;
+
+}
+.single-part{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 200px;
+}
+.one-part-flexbox{
+    display: flex;
+    justify-content: space-around;
+}
+h1{
+    font-size: 65px;
+}
+h2{
+    font-size: 55px;
+    font-weight: 800px;
+}
+h3{
+    font-size: 50px;
+}
+h4{
+    font-size: 35px;
+}
+p{
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+.line-art{
+    margin-top: 12%;
+    height: 150px;
+    width: 10px;
+    background-color: orangered;
+    border-radius: 10px;
+
+}
+.main-title{
+    padding-left: 10px;
+}
+.orange-text{
+    color: orangered;
+}
+.text-content-with-link{
+    width: 50%;
+}
+.text-content-with-link img{
+    width: 80%;
+    padding-left: 10%;
+}
+.orange-button{
+    text-decoration: none;
+    color: white;
+    padding: 15px 45px;
+    background-image: linear-gradient(orange, rgb(223, 51, 51));
+    border-radius: 5px;
+}
+.mission-section{
+    text-align: center;
+}
+.mission-box{
+    width: 25%;
+    background-color: khaki;
+    padding: 10px 40px;
+    text-align: left;
+    border-radius: 10px;
+}
+.mission-image img{
+    width: 60%;
+}
+
+#first-mission{
+    background-color: lightpink;
+}
+#second-mission{
+    background-color: lightskyblue;
+}
+#third-mission{
+    background-color: lightslategray;
+}
+
+.coding-plan{
+    width: 60%;
+    padding:0% 10%;
+}
+.planning-image{
+    width: 40%;
+}
+.planning-image img{
+    width: 100%;
+}
+.app-image{
+    margin-left: 200px;
+    margin-top: 100px;
+    width: 40%;
+}
+.app-image img{
+    width: 100%;
+}
+.app-info{
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 5%;
+    padding-left: 30px;
+    width:60%;
+}
+.footer-design{
+font-family: 'Source Sans Pro', sans-serif;
+background-color: black;
+color: white;
+text-align: center;
+padding: 3px;
+font-weight: 700px;
+}
+.footer-head{
+    font-size: 45px;
+}
+.footer-text-color{
+    color: orangered;
+}
