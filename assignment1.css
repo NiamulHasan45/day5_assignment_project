@@ -34,7 +34,7 @@ p{
     margin-top: 11%;
     height: 150px;
     width: 10px;
-    background-color: orangered;
+    background-color: orange;
     border-radius: 10px;
 
 }
@@ -102,14 +102,15 @@ p{
 }
 .app-image{
     margin-left: 200px;
-    margin-top: 100px;
-    width: 40%;
+    margin-top: 17%;
+    width: 60%;
 }
 .app-image img{
     width: 100%;
+    border-radius: 15%;
 }
 .app-info{
-    margin-top: 10%;
+    margin-top: 8%;
     margin-left: 10%;
     margin-right: 5%;
     padding-left: 30px;
